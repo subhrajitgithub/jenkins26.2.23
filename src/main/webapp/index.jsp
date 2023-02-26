@@ -1,10 +1,6 @@
 <html>
 <body>
 <h2>Hello World!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h2>
-<<<<<<< HEAD
-<h2>good evening</h2>
-<h2>good night</h2>
-=======
->>>>>>> parent of 435aff1 (2nd commit)
+<h2>Ok i understood about the error created </h2>
 </body>
 </html>
